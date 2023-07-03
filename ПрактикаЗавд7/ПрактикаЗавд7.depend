@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688217414 source:c:\users\lenovo\documents\cods\ПрактикаЗавд7\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+
